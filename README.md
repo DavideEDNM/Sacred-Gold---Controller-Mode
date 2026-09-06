@@ -6,6 +6,8 @@
 `Sacred Controller` è un'utility leggera in C# progettata per giocare a **Sacred** utilizzando qualsiasi joypad moderno (Xbox / XInput) o generico (PlayStation / DirectInput USB).
 
 ---
+<img width="1377" height="768" alt="logo" src="https://github.com/user-attachments/assets/960f3ab0-a860-4f9d-9f87-471983c5cf3e" />
+---
 
 ## 🌟 Caratteristiche Principali
 
@@ -60,4 +62,4 @@ Questo software è distribuito come **Freeware** per uso personale e non commerc
 
 * **Tutti i diritti sono riservati a DavideEDNM.**
 * È severamente vietato decompilare, disassemblare, effettuare reverse engineering o modificare l'eseguibile senza previa autorizzazione esplicita dell'autore.
-* Consulta il file [LICENSE](LICENSE) per tutti i dettagli legali.
+* Consulta il file [LICENSE.md](LICENSE) per tutti i dettagli legali.
